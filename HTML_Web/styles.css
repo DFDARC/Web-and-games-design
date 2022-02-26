@@ -1,0 +1,27 @@
+@charset "utf-8";
+*
+{
+	margin:150;
+	padding: 50;
+	
+}
+#body-h1
+{
+	text-align: center;
+}
+body
+{
+	background: url(https://images.pexels.com/photos/2087748/pexels-photo-2087748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	
+		
+}
+h1
+{
+	text-align: center;
+}
+p
+{
+	color: white;
+}
+/* CSS Document */
+
